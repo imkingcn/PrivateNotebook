@@ -10,12 +10,12 @@
 
 ### 	数据结构
 
-- [数据结构-线性表]([https://github.com/koyangyang/PrivateNotebook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E7%BA%BF%E6%80%A7%E8%A1%A8.md](https://github.com/koyangyang/PrivateNotebook/blob/master/数据结构/数据结构-线性表.md))
+- [数据结构-线性表](https://github.com/koyangyang/PrivateNotebook/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
 
 ### 	Java
 
 - [Java基础](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E5%9F%BA%E7%A1%80.md)
-- [Java进阶]([https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E8%BF%9B%E9%98%B6.md](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java进阶.md))
+- [Java进阶](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E8%BF%9B%E9%98%B6.md)
 
 ### 	C++
 
