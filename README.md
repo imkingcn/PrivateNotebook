@@ -14,7 +14,7 @@
 
 ### 	Java
 
-- [Java基础]([https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E5%9F%BA%E7%A1%80.md](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java基础.md))
+- [Java基础](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E5%9F%BA%E7%A1%80.md)
 - [Java进阶]([https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E8%BF%9B%E9%98%B6.md](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java进阶.md))
 
 ### 	C++
