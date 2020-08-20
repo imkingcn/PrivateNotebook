@@ -18,10 +18,15 @@
 - [Java进阶](https://github.com/koyangyang/PrivateNotebook/blob/master/Java/Java%E8%BF%9B%E9%98%B6.md)
 
 ### 	C++
+- 链表
 
 ### 	Python
+- [爬取好看视频](https://github.com/koyangyang/PrivateNotebook/blob/master/Python/Hotvideos.md)
 
 ### 	C
 
+###     杂物
+- [AMD虚拟机安装MacOS系统](https://github.com/koyangyang/PrivateNotebook/blob/master/%E6%9D%82%E7%89%A9/VMwareHackintosh.md)
+- [Github加速](https://github.com/koyangyang/PrivateNotebook/blob/master/%E6%9D%82%E7%89%A9/githubpass.md)
 
 
