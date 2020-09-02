@@ -23,7 +23,11 @@
 ### 	Python
 - [爬取好看视频](https://github.com/koyangyang/PrivateNotebook/blob/master/Python/Hotvideos.md)
 
-### 	C
+### 	CET4
+
+- [0831](https://github.com/koyangyang/PrivateNotebook/blob/master/CET4/0831.md)
+
+### C
 
 ###     杂物
 - [AMD虚拟机安装MacOS系统](https://github.com/koyangyang/PrivateNotebook/blob/master/%E6%9D%82%E7%89%A9/VMwareHackintosh.md)
